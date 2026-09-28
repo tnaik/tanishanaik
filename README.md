@@ -1,2 +1,2 @@
-# ilikepapaya
-a site for ilikepapaya
+# tanisha naik portfolio 
+a site for Tanisha Naik
