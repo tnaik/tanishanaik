@@ -42,28 +42,33 @@ export function NavigationSidebar() {
                 </Link>
               </li>
               <li>
+                <Link href="/case-studies/aifa" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
+                  02 AiFA Labs
+                </Link>
+              </li>
+              <li>
                 <Link href="/#titan-radio" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
-                  02 Titan Radio
+                  03 Titan Radio
                 </Link>
               </li>
               <li>
                 <Link href="/case-studies/titan-universe" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
-                  03 Titan Universe
+                  04 Titan Universe
                 </Link>
               </li>
               <li>
                 <Link href="/case-studies/ACM" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
-                  04 ACM <sup>(Associated Works)</sup>
+                  05 ACM <sup>(Associated Works)</sup>
                 </Link>
               </li>
               <li>
                 <Link href="/case-studies/memory-box" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
-                  05 MemoryBox
+                  06 MemoryBox
                 </Link>
               </li>
               <li>
                 <Link href="/#BlogIt" className="block text-xs text-[#666] hover:text-white transition-colors" onClick={close}>
-                  06 BlogIt!
+                  07 BlogIt!
                 </Link>
               </li>
             </ul>

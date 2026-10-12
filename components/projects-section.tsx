@@ -29,8 +29,23 @@ const FEATURED = {
 
 const PROJECTS = [
   {
-    id: "titan-radio",
+    id: "aifa",
     num: "02",
+    name: "AiFA Labs",
+    href: "https://www.aifalabs.com",
+    caseStudy: "/case-studies/aifa" as string | null,
+    thumbnail: "/assets/aifa/thumbnail.jpg",
+    description: "Brand and marketing design for AiFA Labs' enterprise AI suite. The Cerebro mark in dark and light, LinkedIn carousel series for SASA, and event campaigns for the AI Summit New York and SAP Sapphire Madrid.",
+    tags: [
+      { label: "Branding", color: "bg-[#a78bfa] text-[#252422]", hover: "hover:bg-[#a78bfa]/60" },
+      { label: "Graphic Design", color: "bg-[#e5f2a5] text-[#252422]", hover: "hover:bg-[#e5f2a5]/60" },
+      { label: "Marketing", color: "bg-[#f56a6a] text-[#252422]", hover: "hover:bg-[#f56a6a]/60" },
+    ],
+    wip: false,
+  },
+  {
+    id: "titan-radio",
+    num: "03",
     name: "Titan Radio",
     href: "https://titanradio.org",
     caseStudy: null as string | null,
@@ -44,7 +59,7 @@ const PROJECTS = [
   },
   {
     id: "titan-universe",
-    num: "03",
+    num: "04",
     name: "Titan Universe",
     href: "https://titanuniverse.org",
     caseStudy: "/case-studies/titan-universe",
@@ -60,7 +75,7 @@ const PROJECTS = [
   },
   {
     id: "acm",
-    num: "04",
+    num: "05",
     name: "ACM — Associated Works",
     href: "https://acmcsuf.com",
     caseStudy: "/case-studies/ACM",
@@ -76,7 +91,7 @@ const PROJECTS = [
   },
   {
     id: "memory-box",
-    num: "05",
+    num: "06",
     name: "MemoryBox",
     href: null as string | null,
     caseStudy: "/case-studies/memory-box",
@@ -87,7 +102,7 @@ const PROJECTS = [
   },
   {
     id: "BlogIt",
-    num: "06",
+    num: "07",
     name: "BlogIt!",
     href: null as string | null,
     caseStudy: null as string | null,
