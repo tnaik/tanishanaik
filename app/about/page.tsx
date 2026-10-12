@@ -62,7 +62,7 @@ export default function AboutPage() {
           <div className="w-8 h-px bg-[#e8e8e8] my-6" />
 
           <p className="text-sm text-[#7f7f7f] leading-relaxed mb-4">
-            Based in Southern California. Passionate about bridging creative &amp; technical skills to craft intentional digital experiences. Lifelong learner, expanding my toolkit to shape tomorrow&apos;s design solutions.
+            Based in NYC. Passionate about bridging creative &amp; technical skills to craft intentional digital experiences. Lifelong learner, expanding my toolkit to shape tomorrow&apos;s design solutions.
           </p>
           <p className="text-sm text-[#7f7f7f] leading-relaxed mb-4">
             I currently design at AiFA Labs for AI systems in enterprise. Previously, I worked in TV &amp; Radio — from producing social content to making creative code for live music events. Studied computer science at Cal State Fullerton. Hosted workshops &amp; designathons to encourage students in art, design, &amp; code. Recently finished a project designing for an AI research tool in civic tech.
